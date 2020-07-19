@@ -1,2 +1,2 @@
 # devtask3
-in this task, we use power of cd(continuous delivery) using, integration of k8s, jenkins, github
+in this task3, we use power of devops al on kubernetes using, integration of k8s, jenkins, github
